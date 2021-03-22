@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYUvdUKfrMd9JeWvCr55yXg7Q92nhXlyl/OTyoT6d34qDpGEbJns3yYoN6oUOlQg/uFo9n5Ehgz+WdQmrI8/Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bsi99764\\source\\repos\\FundamentusReader\\Fundamentus.Domain\\Fundamentus.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bsi99764\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\bsi99764\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
